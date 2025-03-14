@@ -151,7 +151,7 @@
 	{/if}
 	<div class="footer">
 		<p>
-			Built with 🧡</a>
+			Built with 🧡
 		</p>
 	</div>
 </div>
