@@ -111,7 +111,7 @@
 </script>
 
 <div class="container">
-	<h1>Floor is Llava</h1>
+	<h1>Reliable CMS Describe an Image AI</h1>
 	<div
 		class="upload-area {isDragging ? 'dragging' : ''}"
 		role="button"
